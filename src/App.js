@@ -50,7 +50,7 @@ function App() {
             path="/"
             element={
               <div>
-                <h1 className="text-center text-4xl font-bold font-serif bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent">
+                <h1 className="text-center text-4xl font-bold font-serif text-blue-500">
                   React Tasks(1-5)
                 </h1>
                 {tasks.map((task) => (

@@ -1,7 +1,7 @@
 const initialData = [
   {
     id: 1,
-    customer: "Olivia",
+    customer:"Bearson Weimann",
     lastSeen: "08/10/2020",
     orders: 2,
     totalSpent: "263.51 SUS",
@@ -11,7 +11,7 @@ const initialData = [
   },
   {
     id: 2,
-    customer: "Amelia",
+    customer: "Anna Bruen",
     lastSeen: "08/09/2020",
     orders: 3,
     totalSpent: "647.91 SUS",
@@ -21,7 +21,7 @@ const initialData = [
   },
   {
     id: 3,
-    customer: "Enna ",
+    customer: "Gudnum Tromp",
     lastSeen: "08/08/2020",
     orders: 0,
     totalSpent: "0.00 SUS",
@@ -31,7 +31,7 @@ const initialData = [
   },
   {
     id: 4,
-    customer: "Sophia",
+    customer: "Florendo Roob",
     lastSeen: "08/09/2020",
     orders: 0,
     totalSpent: "0.00 SUS",
@@ -41,7 +41,7 @@ const initialData = [
   },
   {
     id: 5,
-    customer: "Mateo",
+    customer: "Madelson Torp",
     lastSeen: "08/08/2020",
     orders: 0,
     totalSpent: "0.00 SUS",
@@ -51,7 +51,7 @@ const initialData = [
   },
   {
     id: 6,
-    customer: "Levi",
+    customer: "Rashwan Beer",
     lastSeen: "09/08/2020",
     orders: 3,
     totalSpent: "693.50 SUS",
@@ -61,7 +61,7 @@ const initialData = [
   },
   {
     id: 7,
-    customer: "Auroro",
+    customer: "Both Hill",
     lastSeen: "08/08/2020",
     orders: 2,
     totalSpent: "193.20 SUS",
@@ -71,7 +71,7 @@ const initialData = [
   },
   {
     id: 8,
-    customer: "Luca",
+    customer: "Brandom Hoyerr",
     lastSeen: "08/08/2020",
     orders: 1,
     totalSpent: "150.10 SUS",
@@ -81,7 +81,7 @@ const initialData = [
   },
   {
     id: 9,
-    customer: "Daniel",
+    customer: "Ray Sohuster",
     lastSeen: "18/08/2020",
     orders: 5,
     totalSpent: "500.50 SUS",
@@ -91,7 +91,7 @@ const initialData = [
   },
   {
     id: 10,
-    customer: "Ella",
+    customer: "Jackob Armstrong",
     lastSeen: "7/2/2020",
     orders: 4,
     totalSpent: "400.40 SUS",
@@ -101,7 +101,7 @@ const initialData = [
   },
   {
     id: 11,
-    customer: "Jack",
+    customer: "Janna Grover",
     lastSeen: "5/2/2020",
     orders: 6,
     totalSpent: "650.00 SUS",
@@ -111,7 +111,7 @@ const initialData = [
   },
   {
     id: 12,
-    customer: "Elias",
+    customer: "Dina Tilmann",
     lastSeen: "4/5/2020",
     orders: 3,
     totalSpent: "290.00 SUS",
